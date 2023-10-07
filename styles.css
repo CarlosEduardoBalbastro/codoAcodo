@@ -1,0 +1,27 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+ul li a:hover {
+
+    font-weight: bold;
+}
+
+.btn1 a:hover {
+    
+    text-shadow: 2px 2px black;
+}
+
+
+.contenedorPrincipal {
+    background-image: url('/img/hawaii3.jpg');
+    opacity: 90%;
+    height: 72vh;
+    
+}
